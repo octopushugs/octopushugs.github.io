@@ -1,0 +1,11 @@
+ul li, ol li, p {
+  font-size: 12px;
+}
+
+.section-title {
+  font-size: 14px;
+}
+
+.recipe-subtitle {
+  font-size: 10px;
+}
